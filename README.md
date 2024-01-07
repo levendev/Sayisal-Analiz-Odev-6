@@ -1,0 +1,1 @@
+# Sayisal-Analiz-Odev-6
